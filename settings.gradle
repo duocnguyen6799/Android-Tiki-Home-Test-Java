@@ -1,0 +1,2 @@
+rootProject.name = "Android-Tiki-Home-Test-Java"
+include ':app'
